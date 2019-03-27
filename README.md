@@ -1,5 +1,5 @@
 ## Code for kaggle competition
-The code for the [Catch Me If You Can](https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2) competition under [mlcourse.ai](mlcourse.ai).
+The code for the [Catch Me If You Can](https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2) competition under [mlcourse.ai](https://mlcourse.ai).
 
 Public Lb score: 0.96066
 
